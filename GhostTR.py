@@ -33,7 +33,7 @@ stderr.writelines(f"""{Gr}
 / /_/ / / / / /_/ (__  ) /_/_____/ / / /  / /_/ / /__/ ,<   
 \____/_/ /_/\____/____/\__/     /_/ /_/   \__,_/\___/_/|_| 
 
-          {Wh}[ + ]  C O D E   B Y  H U N X  [ + ]  
+          {Wh}[ + ]  C O D E   B Y  K-B-T-K-M32128  [ + ]  
         
     {Wh}[ 1 ] {Gr}IP Tracker
     {Wh}[ 2 ] {Gr}Show Your IP
@@ -52,7 +52,7 @@ if input_user == '1': #OPSI 1
      .-.
    .'   `.          {Wh}--------------------------------
    :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
-   : o    `.        {Wh}|       {Gr}@CODE BY HUNXBYTS      {Wh}|
+   : o    `.        {Wh}|       {Gr}@CODE BY K-B-T-K-M32128      {Wh}|
   :         ``.     {Wh}--------------------------------
  :             `.
 :  :         .   `.
@@ -114,7 +114,7 @@ elif input_user == '3': #OPSI 2
      .-.
    .'   `.          {Wh}----------------------------------
    :g g   :         {Wh}| {Gr}GHOST - TRACKER - PHONE NUMBER {Wh}|
-   : o    `.        {Wh}|        {Gr}@CODE BY HUNXBYTS       {Wh}|
+   : o    `.        {Wh}|        {Gr}@CODE BY K-B-T-K-M32128       {Wh}|
   :         ``.     {Wh}----------------------------------
  :             `.
 :  :         .   `.
@@ -174,7 +174,7 @@ elif input_user == '2': #OPSI 3
      .-.
    .'   `.          {Wh}----------------------------------
    :g g   :         {Wh}|  {Gr}GHOST - SHOW YOUR IP ADDRESS  {Wh}|
-   : o    `.        {Wh}|        {Gr}@CODE BY HUNXBYTS       {Wh}|
+   : o    `.        {Wh}|        {Gr}@CODE BY K-B-T-K-M32128       {Wh}|
   :         ``.     {Wh}----------------------------------
  :             `.
 :  :         .   `.
@@ -208,7 +208,7 @@ elif input_user == '4':
      .-.
    .'   `.          {Wh}----------------------------------
    :g g   :         {Wh}|    {Gr}GHOST - TRACKER USERNAME    {Wh}|
-   : o    `.        {Wh}|        {Gr}@CODE BY HUNXBYTS       {Wh}|
+   : o    `.        {Wh}|        {Gr}@CODE BY K-B-T-K-M32128       {Wh}|
   :         ``.     {Wh}----------------------------------
  :             `.
 :  :         .   `.
